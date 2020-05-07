@@ -1,3 +1,22 @@
 .header-block {
     background-color: blueviolet;
 }
+.carousel-inner {
+    height: 800px;
+}
+.carousel-indicators li {
+    height: 30px;
+}
+.bg {
+    background-image: url(./images/1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 405px;
+    width: 100%;
+    font-size: 40px;
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
